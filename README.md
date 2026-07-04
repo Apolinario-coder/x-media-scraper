@@ -69,7 +69,7 @@ pip install -r requirements.txt
 Execute o programa:
 
 ```bash
-python scraper.py
+python x_scraper.py
 ```
 
 O programa irá:
